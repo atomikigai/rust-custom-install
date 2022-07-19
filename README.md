@@ -1,5 +1,4 @@
-## rust-custom-install
-### How to custom install Rust Language Windows
+### Custom install Rust Language Windows
 
 <p>Open windows powershell and set this variables:</p>
 <pre>
